@@ -119,6 +119,7 @@ The models are evaluated using: Accuracy, Precision, Recall, F1-score, ROC-AUC, 
 
 
 Model -----                   Accuracy  -----                            ROC-AUC
+
 Decision Tree -----             0.53  -----                               0.5310
 
 Logistic Regression -----      0.52 -----                                0.5013
