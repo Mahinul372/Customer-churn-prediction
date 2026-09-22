@@ -27,25 +27,25 @@ The dataset contains 1,500 records and 9 columns.
 
 # Features
 
-Feature                Description
+Feature -----                Description
 
-Age                   Consumer age
+Age -----                  Consumer age
 
-Income               Consumer income
+Income  -----             Consumer income
 
-Gender               Consumer gender
+Gender -----            Consumer gender
 
-Marital_Status        Marital status
+Marital_Status -----      Marital status
 
-Credit_Score        Consumer credit score
+Credit_Score -----    Consumer credit score
 
-Num_Purchases        Number of purchases
+Num_Purchases -----       Number of purchases
 
-Membership_Years    Length of membership
+Membership_Years -----  Length of membership
 
-Device_Used       Device used by the consumer
+Device_Used -----      Device used by the consumer
 
-Churn            Target variable: 0 = No Churn, 1 = Churn
+Churn -----          Target variable: 0 = No Churn, 1 = Churn
 
 The original dataset contains missing values in Age, Income, Credit_Score, and Gender.
 
@@ -118,14 +118,14 @@ The models are evaluated using: Accuracy, Precision, Recall, F1-score, ROC-AUC, 
 # Test Set Results
 
 
-Model                    Accuracy                              ROC-AUC
-Decision Tree             0.53                                 0.5310
+Model -----                   Accuracy  -----                            ROC-AUC
+Decision Tree -----             0.53  -----                               0.5310
 
-Logistic Regression       0.52                                 0.5013
+Logistic Regression -----      0.52 -----                                0.5013
 
-Gaussian Naive Bayes      0.52                                 0.5191
+Gaussian Naive Bayes -----     0.52 -----                                0.5191
 
-Neural Network (MLP)      0.51                                 0.5091
+Neural Network (MLP) -----     0.51 -----                                0.5091
 
 The classification reports and confusion matrices in the notebook provide additional precision, recall, and F1-score details for each model.
 
