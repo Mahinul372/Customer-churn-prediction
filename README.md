@@ -1,8 +1,6 @@
 # Customer-churn-prediction
 Consumer churn prediction using machine learning, including data preprocessing, exploratory data analysis, and comparison of Decision Tree, Logistic Regression, Naive Bayes, and Neural Network classifiers.
 
-Consumer Churn Prediction
-
 A machine learning project for predicting customer churn using a consumer classification dataset. The project covers data preprocessing, exploratory data analysis (EDA), training multiple classification models, and comparing their performance using classification metrics, Precision-Recall curves, and ROC-AUC analysis.
 
 Project Overview
