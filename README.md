@@ -3,7 +3,7 @@ Consumer churn prediction using machine learning, including data preprocessing, 
 
 A machine learning project for predicting customer churn using a consumer classification dataset. The project covers data preprocessing, exploratory data analysis (EDA), training multiple classification models, and comparing their performance using classification metrics, Precision-Recall curves, and ROC-AUC analysis.
 
-Project Overview
+# Project Overview
 
 The goal of this project is to classify consumers into two categories:
 
