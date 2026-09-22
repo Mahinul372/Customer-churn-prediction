@@ -5,7 +5,7 @@ A machine learning project for predicting customer churn using a consumer classi
 
 # Project Overview
 
-The goal of this project is to classify consumers into two categories:
+The goal of this project is to classify consumers into two categories (Binary Classification) :
 
 0 — No Churn
 
