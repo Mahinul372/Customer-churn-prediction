@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Large Data Files & Datasets (Crucial for Churn projects) ---
+*.csv
+*.xlsx
+*.json
+*.sqlite
+*.db
+
+# --- Trained Machine Learning Models ---
+*.pkl
+*.joblib
+*.h5
+*.onnx
