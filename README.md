@@ -91,15 +91,15 @@ The project includes visual analysis of:
 
 1. Decision Tree Classifier
 
-A DecisionTreeClassifier is trained on the preprocessed training data.
+A Decision Tree Classifier is trained on the preprocessed training data.
 
 2. Logistic Regression
 
-A LogisticRegression model is trained for binary churn classification.
+A Logistic Regression model is trained for binary churn classification.
 
 3. Gaussian Naive Bayes
 
-A GaussianNB classifier is used to model the probability of churn based on the available features.
+A Gaussian NB classifier is used to model the probability of churn based on the available features.
 
 4. Neural Network
 
